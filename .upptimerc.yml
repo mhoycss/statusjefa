@@ -9,8 +9,6 @@ sites:
     url: https://api.jefa.io/swagger-ui.html
   - name: Dashboard
     url: https://dashboard.jefa.io
-  - name: Staging Dashboard
-    url: https://staging-dashboard.jefa.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
