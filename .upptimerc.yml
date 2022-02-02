@@ -9,6 +9,8 @@ sites:
     url: https://api.jefa.io/swagger-ui.html
   - name: Dashboard
     url: https://dashboard.jefa.io
+  - name: Jefa MX Site
+    url: https://jefa.mx
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
