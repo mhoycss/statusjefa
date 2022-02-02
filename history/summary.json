@@ -58,7 +58,7 @@
     "url": "https://staging-dashboard.jefa.io",
     "icon": "https://favicons.githubusercontent.com/staging-dashboard.jefa.io",
     "slug": "staging-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   }
 ]
