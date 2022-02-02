@@ -11,6 +11,17 @@ sites:
     url: https://dashboard.jefa.io
   - name: Jefa MX Site
     url: http://jefa.mx
+  - name: Banco Jefa MX Site
+    url: http://bancojefa.mx
+  - name: Banco Jefa.co Site
+    url: http://bancojefa.co
+  - name: Banco Jefa.com Site
+    url: http://bancojefa.com
+  - name: Banco conjefa.co Site
+    url: http://conjefa.co
+  - name: Banco conjefa.com Site
+    url: http://conjefa.com
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
