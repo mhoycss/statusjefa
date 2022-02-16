@@ -94,19 +94,19 @@
     "url": "http://bancojefa.co",
     "icon": "https://favicons.githubusercontent.com/bancojefa.co",
     "slug": "banco-jefa-co-site",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 725,
-    "timeDay": 5121,
-    "timeWeek": 1356,
-    "timeMonth": 725,
-    "timeYear": 725,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 764,
+    "timeDay": 3880,
+    "timeWeek": 1361,
+    "timeMonth": 764,
+    "timeYear": 764,
     "dailyMinutesDown": {
-      "2022-02-16": 1
+      "2022-02-16": 19
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "http://conjefa.com",
     "icon": "https://favicons.githubusercontent.com/conjefa.com",
     "slug": "banco-conjefa-com-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 244,
-    "timeWeek": 132,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 655,
+    "timeDay": 4461,
+    "timeWeek": 1201,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2022-02-16": 0
+      "2022-02-16": 19
     }
   }
 ]
