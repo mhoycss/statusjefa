@@ -58,10 +58,10 @@
     "url": "http://jefa.mx",
     "icon": "https://favicons.githubusercontent.com/jefa.mx",
     "slug": "jefa-mx-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
@@ -69,7 +69,9 @@
     "timeWeek": 264,
     "timeMonth": 224,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   },
   {
     "name": "Banco Jefa MX Site",
@@ -150,7 +152,7 @@
     "url": "http://conjefa.com",
     "icon": "https://favicons.githubusercontent.com/conjefa.com",
     "slug": "banco-conjefa-com-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -162,6 +164,7 @@
     "timeMonth": 773,
     "timeYear": 600,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2022-02-16": 19
     }
   }
