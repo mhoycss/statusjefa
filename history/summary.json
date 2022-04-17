@@ -4,19 +4,19 @@
     "url": "https://jefa.io",
     "icon": "https://favicons.githubusercontent.com/jefa.io",
     "slug": "jefa-io-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 377,
-    "timeDay": 210,
-    "timeWeek": 452,
-    "timeMonth": 427,
-    "timeYear": 377,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 375,
+    "timeDay": 218,
+    "timeWeek": 424,
+    "timeMonth": 421,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2022-04-17": 0
+      "2022-04-17": 27
     }
   },
   {
