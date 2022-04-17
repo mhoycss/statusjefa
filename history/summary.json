@@ -4,9 +4,9 @@
     "url": "https://jefa.io",
     "icon": "https://favicons.githubusercontent.com/jefa.io",
     "slug": "jefa-io-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 452,
     "timeMonth": 427,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-17": 0
+    }
   },
   {
     "name": "Jefa Api",
