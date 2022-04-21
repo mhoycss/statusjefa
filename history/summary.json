@@ -24,10 +24,10 @@
     "url": "https://api.jefa.io/swagger-ui.html",
     "icon": "https://favicons.githubusercontent.com/api.jefa.io",
     "slug": "jefa-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
@@ -35,14 +35,16 @@
     "timeWeek": 293,
     "timeMonth": 273,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 1
+    }
   },
   {
     "name": "Dashboard",
     "url": "https://dashboard.jefa.io",
     "icon": "https://favicons.githubusercontent.com/dashboard.jefa.io",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 300,
     "timeMonth": 278,
     "timeYear": 277,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   },
   {
     "name": "Jefa MX Site",
